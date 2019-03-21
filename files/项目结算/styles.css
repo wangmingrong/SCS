@@ -508,9 +508,8 @@
 #u935 {
   position:absolute;
   left:2px;
-  top:47px;
+  top:48px;
   width:86px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u936_img {
@@ -720,6 +719,28 @@
   left:2px;
   top:4px;
   width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u954_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u954 {
+  position:absolute;
+  left:155px;
+  top:249px;
+  width:30px;
+  height:30px;
+}
+#u955 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
   visibility:hidden;
   word-wrap:break-word;
 }
