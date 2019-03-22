@@ -49,7 +49,7 @@
   left:0px;
   top:0px;
   width:374px;
-  height:18px;
+  height:20px;
   background:inherit;
   background-color:rgba(25, 158, 216, 1);
   box-sizing:border-box;
@@ -71,7 +71,7 @@
   left:22px;
   top:19px;
   width:374px;
-  height:18px;
+  height:20px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -81,7 +81,7 @@
 #u97 {
   position:absolute;
   left:2px;
-  top:2px;
+  top:4px;
   width:370px;
   word-wrap:break-word;
 }
